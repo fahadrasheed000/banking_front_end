@@ -1,0 +1,22 @@
+/* Float button csss */
+.float-btn{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:#4099ff;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+    z-index:9;
+	box-shadow: 2px 2px 3px #999;
+}
+
+.float-btn-icon{
+	margin-top:22px;
+    font-size: 20px;
+}
+.is-required {
+    color:red;
+  }
